@@ -11,10 +11,21 @@
   "author": "Kianush Dixon",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "node-sass": "^6.0.1"
   },
   "dependencies": {
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiki615/healthy-ish-recipes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kiki615/healthy-ish-recipes/issues"
+  },
+  "homepage": "https://github.com/Kiki615/healthy-ish-recipes#readme"
 }
